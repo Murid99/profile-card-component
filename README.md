@@ -15,6 +15,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 ## Overview
+Profile Card Component is a clean and responsive website built using HTML and CSS.
 
 ### The challenge
 
@@ -22,13 +23,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./project_screenshot.jpg)
+![](./images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-using-html-and-css-UpUUGhikL]
+- Live Site URL: [ https://umarsalihu99.github.io/profile-card-component/]
 
 
 ### Built with
